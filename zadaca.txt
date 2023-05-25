@@ -1,0 +1,24 @@
+
+
+ZADATAK 1:
+  Dovršiti GreetingServlet na način da se poruka "Dobro veče" nekada
+  transformiše u "Dobro jutro" ili "Dobar da".
+  Doba dana treba da se vežu za periode:
+     1. 05:30 - 10:00 -> Dobro jutro
+     2. 10:00 - 19:30 -> Dobar dan
+     3. 19.30 - 05:30 -> Dobro veče
+
+  ZADATAK 2:
+  Za znatiželjne. Detektovati vremensku zonu klijenta i po
+  njegovoj vremenskoj zoni mu kazati dal je jutro, veče ili dan.
+
+
+  ZADATAK 3:
+  HttpServlet
+  Servlet Container -> memorija
+     init() jednom prilikom instanciranja objekta po šablonu servlet klase
+     ConnectionPool
+     doGet
+     doPost
+     destroy() jednom prilikom čišćenja objekta iz memorije
+     ConnectionPool close

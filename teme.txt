@@ -1,0 +1,59 @@
+ 1. Web aplikacija za prodavnicu mobilnih telefona
+ 2. Web aplikacija – auto-pijaca
+ 3. Web aplikacija – prodavnica igračaka
+ 4. Web aplikacija – prodavnica odjeće
+ 5. Web aplikacija – agencije za nekretnine
+ 6. Web aplikacija za praćenje vijesti (RSS čitac, koji čita vijesti sa različitih strana)
+ 7. Web aplikacija promocija ili prezentacija diskoteke
+ 8. Web aplikacija promocija ili prezentacija fakulteta ili škole
+ 9. Web sajt promocija ili prezentacija muzeja
+10. Web ili desktop aplikacija za vođenje firme (zaposleni, plate, radna mjesta...)
+11. Web ili desktop aplikacija za vođenje stomatološke ordinacije
+12. Web ili desktop aplikacija za vođenje radnje sa robom široke potrošnje
+13. Web ili desktop aplikacija za autoprevozničku firmu
+14. Informacioni sistem prodaje programa i video-igara
+15. Igra (konsultovati predavača)
+
+
+Također u nastavku šaljem karakteristike rada koje je neophodno da svaki rad sadrži:
+
+Da bi završni rad bio prihvatljiv prilikom odbrane, on, osim ukoliko u dogovoru sa predavačem nije potvrđeno drugačije, mora da sadrži sljedeće elemente i tehničke karakteristike:
+
+1. Bazu podataka sa minimum pet povezanih tabela
+
+2. Komunikaciju aplikacije sa bazom podataka
+
+3. Napisani kod aplikacije
+
+Autentične, ručno napisane objektno orijentisane elemente.
+(važno je da bude bez kopiranja kompletnih klasa sa Interneta)
+
+Dokumentaciju
+
+	Da bi dokumentacija bila validna, neophodno je da:
+
+Sadrži što detaljnije uputstvo za korištenje aplikacije od strane korisnika,
+i uputstvo za rad na aplikaciji od strane developera.
+
+Sadrži minimum 10 strana formata A4, font 12, prored single
+
+Sadrži samo minimalne količine koda kopiranog iz aplikacije
+(samo onoliko koliko je neophodno da se objasni predstavljeni problem,
+nikako kompletne kodove rada)
+
+Sadrži samo slike neophodne za objašnjenje predstavljenog problema,
+isključivo vezane za aplikaciju
+(bez slika kopiranih sa Interneta, nikako printscreen kompletnog koda rada)
+
+Ukratko samo navesti korištene tehnologije, bez pisanja njihovih definicija i opisa.
+ Npr. JAVA, HTML, PHP, MySQL, klasa, objekat, itd.
+
+ JS, HTML, CSS , Java, Jakarta EE/Spring, JPA+Hibernate, MySQL
+
+Bude, zajedno sa projektom, dostavljena u digitalnoj formi predavaču
+(ne treba donositi štampanu formu dokumentacije).
+
+Potrebno je da za materijal koji donosite na odbranu,
+uvijek imate rezervnu kopiju,
+postavljenu na nekom cloud servisu (Google Drive, MEGA, One Drive i slične.).
+U slučaju, da postoji problem sa očitavanjem prenosnih memorija.
